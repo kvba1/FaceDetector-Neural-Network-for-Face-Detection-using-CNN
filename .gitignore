@@ -1,0 +1,6 @@
+*.json
+*.jpg
+*.png
+.DS_Store
+*.txt
+*.pth
