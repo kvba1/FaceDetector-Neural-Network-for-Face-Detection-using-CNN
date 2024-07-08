@@ -54,6 +54,9 @@ The model was trained using the Adam optimizer with cross-entropy loss for class
 | ...   | ...        | ...             | ...        |
 | 10    | 0.0099     | 0.0014          | 0.0113     |
 
+![image](https://github.com/kvba1/FaceDetector-Neural-Network-for-Face-Detection-using-CNN/assets/128424095/b77ad525-764f-4f7f-ba7e-df7865020277)
+
+
 ## 5. Test Results
 
 The model's performance was evaluated on a test dataset using visualizations and metrics. A function was written to detect faces in random batches from the test set and display the results.
